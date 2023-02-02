@@ -6,3 +6,10 @@ My name is Mike and I love geeky things. I am a coder, not a developer. I passio
   * [🕊 - Twitter](https://twitter.com/mikenelsonio/)
   * [🏢 - LinkedIn](https://www.linkedin.com/in/nelmedia/)
   
+<br/>
+
+[![](./chat.svg)](https://twitter.com/mikenelsonio)
+
+![](https://github-readme-stats.vercel.app/api?username=mikenelsonio&show_icons=true&theme=merko)
+
+<br/>
